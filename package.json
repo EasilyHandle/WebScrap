@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "puppeteer": "^19.6.2"
+  },
+  "name": "webscrapping",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "node-cron": "^3.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Paul",
+  "license": "ISC",
+  "description": ""
+}

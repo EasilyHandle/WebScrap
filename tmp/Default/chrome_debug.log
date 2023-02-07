@@ -1,0 +1,11 @@
+[0204/073319.495:ERROR:ssl_client_socket_impl.cc(985)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0204/073319.616:ERROR:ssl_client_socket_impl.cc(985)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0204/073319.828:ERROR:ssl_client_socket_impl.cc(985)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0204/073319.972:ERROR:ssl_client_socket_impl.cc(985)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0204/073322.063:ERROR:ssl_client_socket_impl.cc(985)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0204/073322.066:ERROR:ssl_client_socket_impl.cc(985)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0204/073322.183:ERROR:ssl_client_socket_impl.cc(985)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0204/073322.519:ERROR:ssl_client_socket_impl.cc(985)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0204/073322.525:ERROR:ssl_client_socket_impl.cc(985)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0204/073322.636:ERROR:ssl_client_socket_impl.cc(985)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0204/073322.884:INFO:CONSOLE(0)] "Access to XMLHttpRequest at 'https://www.mercadolibre.cl/recommendations?client=search-pads-left-shops&limit=50&platform=desktop&page=SEARCHDESKTOP&min_recomms=4&RECOMMENDED.force_categories=MLC1459&RECOMMENDED.cnt=25&site_id=MLC&category_id=MLC1459&item_id=MLC1308059737&d2_id=3dffdcd5-fab9-4ab9-9c93-9328cd0374d0&user-platform=desktop' from origin 'https://www.portalinmobiliario.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.", source: https://www.portalinmobiliario.com/venta/departamento (0)
