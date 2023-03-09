@@ -7,13 +7,13 @@ const scraperObject = {
 		// await page.setViewport({width: 1600, height: 900});
 		console.log(`Navigating to ${url}...`);
 		// Navigate to the selected page
-		await page.goto(url);
-		// function sleep(ms) {
-		// 	return new Promise((resolve) => {
-		// 	  setTimeout(resolve, ms);
-		// 	});
-		// }
-		// await sleep(3000);
+		page.goto(url);
+		function sleep(ms) {
+			return new Promise((resolve) => {
+			  setTimeout(resolve, ms);
+			});
+		}
+		await sleep(3000);
 		console.log('Getting page data...')
 		const pageData = await page.evaluate(() => {
 			return {
